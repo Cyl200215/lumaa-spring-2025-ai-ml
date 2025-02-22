@@ -11,6 +11,8 @@ Build a **content-based recommendation system** that, given a **short text descr
 ## Dataset
 The dataset is a collection of the 100 most popular books downloaded from the [Gutenburg Project](https://www.gutenberg.org/browse/scores/top). These 100 books form the corpus that I consider for this challenge. Each file contains the text of a book. I will read in all 100 books.
 
+### !!! Please locate the dataset zip file provided in the Releases along with source codes. 
+
 
 ## Requirements
 
@@ -66,4 +68,6 @@ Democracy in America — Volume 1 by Alexis de Tocqueville: 0.02
 On Liberty by John Stuart Mill: 0.01
 ```
 
+## Demo Video
+Google Drive: https://drive.google.com/file/d/14R6hw3X-CVm0WPlxXXnExUSO36vdzuHN/view?usp=sharing
 
